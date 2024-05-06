@@ -14,6 +14,7 @@ To write a program to implement the SVM For Spam Mail Detection.
 4. Find the accuracy and display the result.
 
 ## Program:
+
 ```
 Program to implement the SVM For Spam Mail Detection..
 Developed by: JANARTHANAN V K 
