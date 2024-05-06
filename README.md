@@ -20,8 +20,8 @@ Program to implement the SVM For Spam Mail Detection..
 Developed by: JANARTHANAN V K 
 RegisterNumber: 212222230051
 ```
-
 ```python
+
 import numpy as np
 import pandas as pd
 from sklearn.model_selection import train_test_split
@@ -46,6 +46,7 @@ print("Accuracy:", accuracy_score(y_test, predictions))
 print("Classification Report:")
 print(classification_report(y_test, predictions))
 ```
+
 ## Output:
 ## Head:
 <img src="https://github.com/deepikasrinivasans/Implementation-of-SVM-For-Spam-Mail-Detection/assets/119393935/666a2fbe-b1e9-4389-bf89-a54ee4fe1de3" width=50%>
