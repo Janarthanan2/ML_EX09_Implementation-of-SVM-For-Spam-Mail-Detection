@@ -20,6 +20,7 @@ Program to implement the SVM For Spam Mail Detection..
 Developed by: JANARTHANAN V K 
 RegisterNumber: 212222230051
 ```
+
 ```python
 import numpy as np
 import pandas as pd
