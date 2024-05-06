@@ -54,7 +54,7 @@ print(classification_report(y_test, predictions))
 <img src="https://github.com/deepikasrinivasans/Implementation-of-SVM-For-Spam-Mail-Detection/assets/119393935/72448a19-ec6f-425c-8f14-34d4125032e1">
 
 ## Accuracy and Classification report:
-<img src="https://github.com/deepikasrinivasans/Implementation-of-SVM-For-Spam-Mail-Detection/assets/119393935/5894ab20-ef10-45ee-91f1-f099cb3733da" width=50%>
+<img src="https://github.com/deepikasrinivasans/Implementation-of-SVM-For-Spam-Mail-Detection/assets/119393935/5894ab20-ef10-45ee-91f1-f099cb3733da" width=40%>
 
 ## Result:
 Thus the program to implement the SVM For Spam Mail Detection is written and verified using python programming.
